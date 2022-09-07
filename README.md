@@ -1,1 +1,1 @@
-in this little code I wrote the things that I know in php programming language. I'm on the process right now, in few months I think I'll be well-known-programmer. I have alos mentor of this direction, it's my brother. He is always ready to help me. I chose php, why? Because of my brother, he is a back-end developer at the big IT company in Kazakhstan. And he wants me to get a job from there. 
+
